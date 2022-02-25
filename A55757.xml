@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Paradox against life an heroick poem / written by the Lords in the Tower.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55757</idno>
+            <idno type="STC">Wing P331</idno>
+            <idno type="STC">ESTC R28148</idno>
+            <idno type="EEBO-CITATION">10433000</idno>
+            <idno type="OCLC">ocm 10433000</idno>
+            <idno type="VID">45014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45014)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1388:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Paradox against life an heroick poem / written by the Lords in the Tower.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Vade,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45014:1"/>
+            <pb facs="tcp:45014:1"/>
+            <p>A PARADOX Againſt LIFE.</p>
+            <p>Written By the LORDS in the TOWER.</p>
+            <p>
+               <hi>An Heroick Poem.</hi>
+            </p>
+            <q>
+               <l>—Beatus</l>
+               <l>Ante Obitum Nemo—</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Vade</hi> at the Cock and Sugar-Loaf in <hi>Fleet-Street,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:45014:2"/>
+            <pb n="3" facs="tcp:45014:2"/>
+            <head>A Paradox againſt LIFE.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen GOD the Mighty Maſs of Matter Made,</l>
+               <l>As yet, no Light nor Form, the Chaos had.</l>
+               <l>Darkneſs ſole Monarch was Below, the Maſs</l>
+               <l>Look't all Confus'd, and with an <hi>Ethiop's</hi> Face.</l>
+               <l>'Till the Almighty <hi>Fiat</hi> call'd forth Light,</l>
+               <l>From the Black VVomb of yet Eternal Night.</l>
+               <l>Light, without which, the VVorld had ne're been ſeen,</l>
+               <l>Nor good, could e're the Six-Days VVork, have been.</l>
+               <l>The living Stream was not to Pipes Convey'd,</l>
+               <l>But in the pure Eternal Fountain, ſtaid.</l>
+               <l>'Twas near the End of the Creation grown,</l>
+               <l>Before Life (Now th' Unhappy Thing) was known.</l>
+               <l>VVhen God, the Gift Firſt to the Fiſh, was given,</l>
+               <l>For the Great <hi>Whale,</hi> was the firſt-Born of Heaven.</l>
+               <l>Man though the Firſt, in Order was the Laſt,</l>
+               <l>That from his Maker, did this Bounty Taſt.</l>
+               <l>Too Sweet alas, to be a Long Repaſt!</l>
+               <l>His Short-liv'd Glory, but fore-run his Shame,</l>
+               <l>And <hi>Paradiſe</hi> did ſeem a Vaniſh'd Dream.</l>
+               <pb n="4" facs="tcp:45014:3"/>
+               <l>How ſhort a time, Poor Wretch! thy Bliſs did laſt,</l>
+               <l>Thy Brighter Morn, was in its Riſe Ore-caſt.</l>
+               <l>O Fatal Ill! Which Mankind may bemoan,</l>
+               <l>All <hi>Edens</hi> Fruits were freely Given, ſave One.</l>
+               <l>But things Unlawful moſt Affected be,</l>
+               <l>And <hi>Evab</hi> Long'd for the Forbidden Tree.</l>
+               <l>What Reſtleſs Paſſions Rackt the Doubtful Mind<g ref="char:punc">▪</g>
+               </l>
+               <l>Who by Free-Will to Eat, were quickly pin'd,</l>
+               <l>And a Plague, worſe than Famin, left their Kind.</l>
+               <l>The paſſive Mind, was by Enflam'd Deſire,</l>
+               <l>To the New Fabrick's ruin, ſet on Fire.</l>
+               <l>Vain and inſatiat Appetite and Luſt,</l>
+               <l>Have brought him Back more Low, than to the Duſt.</l>
+               <l>The World's Firſt-Great-Recorder, does Relate,</l>
+               <l>Of Wretched Man, the Miſerable State.</l>
+               <l>Who following Sence, 'gainſt Reaſon did Rebel,</l>
+               <l>And Traytor-like, from All his Glories Fell.</l>
+               <l>Whil'ſt in a State of Innocence He ſtood,</l>
+               <l>No Fear made Beaſts ſeek Shelter in the Wood.</l>
+               <l>Nor did the Birds, with haſty Wings take Flight;</l>
+               <l>All Hover'd Round, and Wonder'd at the Sight.</l>
+               <l>But when He Fell, How Viſible Sin was,</l>
+               <l>That Birds and Beaſts could Read it in His Face?</l>
+               <pb n="5" facs="tcp:45014:3"/>
+               <l>With various haſt, th' afrighted Croud's Repair,</l>
+               <l>Some to the Woods, ſome to remoter Ayr,</l>
+               <l>Thus when a Prince turns Traytor to the Laws,</l>
+               <l>His Loyal Subjects do decline his Cauſe.</l>
+               <l>Ah Curiouſneſs! Firſt Cauſe of all Our Ill,</l>
+               <l>And yet the Plague, which does Infect us ſtill.</l>
+               <l>Now look no more for Reſt, for Toyl thou muſt,</l>
+               <l>Till whence Firſt come, thou bee'ſt brought back to Duſt.</l>
+               <l>The Breath which Bleſt his Heaven-Stampt-Duſt, is now,</l>
+               <l>That which the Subject makes him of all Woe,</l>
+               <l>And rowles the troubl'd Bubble too and froe.</l>
+               <l>What does Man's Life, when moſt Serene afford?</l>
+               <l>'Tis but a Worm that gnaws the faireſt <hi>Gourd.</hi>
+               </l>
+               <l>Our Days of Gladneſs are but ſhort Reliefs,</l>
+               <l>Given to reſerve us for enduring Griefs.</l>
+               <l>Poor Span of wretched Earth! If meaſur'd by</l>
+               <l>The tedious Raign of Life's Calamity,</l>
+               <l>Though thus Contracted, ſtill thou may'ſt Complain,</l>
+               <l>That yet too much of <hi>Patriarch</hi> does remain.</l>
+               <l>If in Long Life, there may a Bleſſing be,</l>
+               <l>'Twas only known in the World's Infancy.</l>
+               <l>Man then, a <hi>Stag</hi> or <hi>Raven,</hi> could ſurvive,</l>
+               <l>But we can ſcarce with <hi>Bats</hi> or <hi>Swallows</hi> Live.</l>
+               <pb n="6" facs="tcp:45014:4"/>
+               <l>We ſpend the Summer of Our Days, as They,</l>
+               <l>To rear a pile of Dirt, and ſo away.</l>
+               <l>The Sap of Life now to the Root is ſunk,</l>
+               <l>And the Hydropick Earth the Juice hath drunk.</l>
+               <l>If Lifes <hi>Meanders</hi> to the Spring we trace,</l>
+               <l>It riſes Troubled, and in Storms doth paſs.</l>
+               <l>Th' impetuous Torrent, ſwelling we ſhall find,</l>
+               <l>Like Tydes born up, by a ſtrong Weſtern Wind,</l>
+               <l>Mouldring the Bancks, in which it is Confin'd.</l>
+               <l>It dwells in Blood, and is the Tyde of Fate,</l>
+               <l>And does in Cares and Sorrows Circulate.</l>
+               <l>In ſecret Channels, through the groſſer Maſs,</l>
+               <l>That Small-Red-Sea, purſuing Life doth paſs.</l>
+               <l>But no where Reſts, no Place affordeth Eaſe,</l>
+               <l>To this poor Mans uncurable Diſeaſe;</l>
+               <l>A breath ſoon gone, made up of Sighs and Groans,</l>
+               <l>Th' unhappy Ligament of Fleſh and Bones.</l>
+               <l>From dull Privation, and lean Emptineſs,</l>
+               <l>A Quinteſcence deriv'd from Nothingneſs.</l>
+               <l>The falſe and gaudy Colours of the Bowe,</l>
+               <l>May boaſt as much reallity, as Thou:</l>
+               <l>
+                  <hi>Iris</hi> may be thy Rival in each part,</l>
+               <l>Who but the Dream of a faint Shadow art.</l>
+               <pb n="7" facs="tcp:45014:4"/>
+               <l>Sun, Water, Earth, the Elements in One,</l>
+               <l>Doe Club alike, for your Production.</l>
+               <l>Both, as the Smoak do vaniſh, and Our Breath,</l>
+               <l>Serves only to bear up the Wings of Death.</l>
+               <l>A buſy noiſy thing, that do'ſt Expreſs,</l>
+               <l>But hollow joy, and real Emptineſs.</l>
+               <l>Almoſt each Circumſtance of Life declares,</l>
+               <l>How flat Man's Joyes are, and how ſharp his Cares.</l>
+               <l>A Glowe-worms fainter Light, that ſhines in vain,</l>
+               <l>Extinguiſht by the leaſt of <hi>Cynthias</hi> Train.</l>
+               <l>
+                  <hi>Iſthmu</hi>'s of Earth! That do'ſt ſo proudly riſe,</l>
+               <l>And thruſt thy ſelf, 'twixt two Eternities.</l>
+               <l>That do'ſt in pain, the ſhock of time, ſuſtain,</l>
+               <l>And waſht away, art ſwallow'd in the Main.</l>
+               <l>This vaſt Triangle, this moſt Huge ſmall thing</l>
+               <l>Which all the World within it ſelf can bring,</l>
+               <l>Lifes quaking Center, ſtill firſt Quick, laſt Kill'd,</l>
+               <l>Like to ſome vaſt <hi>Abyſſe</hi> can ne're be fill'd.</l>
+               <l>It ſtill is pin'd, and does complain for Reſt,</l>
+               <l>By its continual beating in our Breaſt.</l>
+               <l>Myſterious Riddle, which the Grave does Read,</l>
+               <l>We can't be truly ſaid to Live, 'till Dead!</l>
+               <l>We to a Forraign Country Natives are,</l>
+               <l>And muſt by Pain and Travel, enter there,</l>
+               <pb n="8" facs="tcp:45014:5"/>
+               <l>'Till once Arriv'd, where we ſhould dayly tend,</l>
+               <l>Cares painful Progreſs, cannot have an End.</l>
+               <l>Our being from Above, does let us Know,</l>
+               <l>We're in Antipathy to things below.</l>
+               <l>And all our Ayery Joyes do Anguiſh bring;</l>
+               <l>They want the Honey, but retain the Sting.</l>
+               <l>Yet hug Our ſelves, in hopes that Life will grant,</l>
+               <l>Some good, of which we ſtill are Ignorant.</l>
+               <l>This Leſſer World, in which we ſo much Truſt,</l>
+               <l>What is it, but a Wind inclos'd in Duſt?</l>
+               <l>A VVorld in which, VVar never yet did Ceaſe,</l>
+               <l>For ſtill Inteſtine Foes diſturb its Peace.</l>
+               <l>Unkinder Nature to a State of VVar,</l>
+               <l>Deſigns us, though we moſt Defenceleſs are.</l>
+               <l>Man's Life's a Warfare, and we're preſt upon</l>
+               <l>A moſt unequal Combat, Three to One.</l>
+               <l>But the brave Victor reaps a Glorious Crown.</l>
+               <l>The wretched Creature Man's no ſooner Born,</l>
+               <l>But with Good-Morrows, we Salute his Morn.</l>
+               <l>Though in a rugged and a narrow way,</l>
+               <l>The Pilgrim's bound to Travel out his Day.</l>
+               <l>But to his Inn, when he does Safe Arrive,</l>
+               <l>Although his Night of Reſt be come, VVe Grieve.</l>
+               <pb n="9" facs="tcp:45014:5"/>
+               <l>VVith Joy we ſee him Launch into the Storm,</l>
+               <l>But when he reaches the Calm Port, we Mourn.</l>
+               <l>What a Prepoſtr'ous Kindneſs do we ſhow,</l>
+               <l>Paying Our Joy to th' Object of all Woe?</l>
+               <l>By the Reverſe, the <hi>Spartans</hi> do Expreſs</l>
+               <l>Their Joy and Sorrow in an Apter Dreſs.</l>
+               <l>Man at his Birth, inſtructs us for to Cry,</l>
+               <l>Complaining ſtrait of Life's great Injury,</l>
+               <l>And does Himſelf Weep his own <hi>Obſequie.</hi>
+               </l>
+               <l>His Births Portentous, and He <hi>falls upon,</hi>
+               </l>
+               <l>
+                  <hi>An Ominous Precipitation.</hi>
+               </l>
+               <l>The Lumpe of Earth is Kneaded up of Ill,</l>
+               <l>Swelling and Fainting, though he goes Down-Hill.</l>
+               <l>What are thoſe Joyes, that He can call his own,</l>
+               <l>That make the bitter Draught of Life, go down?</l>
+               <l>Life's the great Hinge, on which uneaſie Man,</l>
+               <l>Does turn in Paine and never quiet Hang.</l>
+               <l>Life, which from Worldly Care, Contracts each Day,</l>
+               <l>A Ruſt, which Eates our Poliſh't joyes away.</l>
+               <l>Life is a ſtrange and Fatal Energy,</l>
+               <l>Which does imploy Our Sence in Miſery.</l>
+               <l>It winds the Curious <hi>Clock-Work</hi> up, and ſtrait,</l>
+               <l>To make it go, hangs on a Heavy Wait.</l>
+               <pb n="10" facs="tcp:45014:6"/>
+               <l>The Chryſtal Spheres, the Lanthorns of Our Sight,</l>
+               <l>(Whether by drawing or diſperſing Light)</l>
+               <l>The gen'ral Spies, that ev'ry thing do mark,</l>
+               <l>Of all the Leſſer World the brighteſt Spark;</l>
+               <l>Which ſtraight, when clos'd, does make the Great ſeem Dark:</l>
+               <l>Did of Chief Pleaſures, once the Center prove,</l>
+               <l>Both from the World Below, and that Above.</l>
+               <l>Suns of the Senſes, Mirrors of the Mind,</l>
+               <l>Twin-Orbs of Light, which once ſo Brightly ſhin'd,</l>
+               <l>The Windowes of the Man, 'till Sight doth fail,</l>
+               <l>Clear as the Chryſtals, and as Chryſtals frail;</l>
+               <l>Being perverted from their Uſe, at firſt,</l>
+               <l>Are turn'd to Stars of Pride, and Flames of Luſt.</l>
+               <l>By Theſe, as Doors, all Miſchiefs enter in,</l>
+               <l>The Baits, the Panders and the Gates of Sin.</l>
+               <l>Theſe Living Lab'rynths, entertaining Sounds,</l>
+               <l>Which bring the Stuff, on which the Judgment Grounds.</l>
+               <l>As ready Porters at Attendance ſit,</l>
+               <l>And whatſoever ſtrikes, do ſtraight Admit.</l>
+               <l>Theſe oft' with Pleaſure, ſmooth Afflicting Care,</l>
+               <l>VVhil'ſt ſome Harmonious Sound does Charm the Ayr.</l>
+               <l>Yet like ſome Strumpet that's grown Diſſolute,</l>
+               <l>Are to the moſt Obſcene, a Proſtitute.</l>
+               <pb n="11" facs="tcp:45014:6"/>
+               <l>VVhil'ſt ſtrong Deſires, faint Goodneſs do Controul,</l>
+               <l>And <hi>Circes</hi>-like, pour Poiſon in the Soul.</l>
+               <l>By the ſtrange Charms of a Seducing Tongue,</l>
+               <l>Are Tempted, and Corrupted, unto Wrong.</l>
+               <l>Sin makes Attaques ſtill on the Weaker Parts,</l>
+               <l>And by our Eyes and Ears, does Storm our Hearts.</l>
+               <l>Theſe are the <hi>Mines,</hi> which firſt blow up the Mind,</l>
+               <l>To Luſt, Ambition, Sins of ev'ry kind,</l>
+               <l>Which all our Strength by Treaty do betray,</l>
+               <l>'Gainſt Senſe and Reaſons Charge, a Guard-leſs way.</l>
+               <l>I'th' Ear and Eye, Satan in Ambuſh lay.</l>
+               <l>Theſe Potent-Entries, can hold nothing out,</l>
+               <l>But give each Minute grounds for Fear or Doubt.</l>
+               <l>Impregnable had this Frail-Fort of Duſt</l>
+               <l>Been againſt all the Batteries of Luſt,</l>
+               <l>Had not his Senſes wrought his overthrow,</l>
+               <l>By holding Correſpondence with the Foe.</l>
+               <l>Beſiegers quickly may the Caſtle Win,</l>
+               <l>If they Corrupt the Sentinels Within.</l>
+               <l>Unhappy Man! VVhoſe Lifes ſublimeſt Bliſs,</l>
+               <l>In the Enjoyment but his Ruin is!</l>
+               <l>Yet Spaniel-natur'd, though he's Beaten ſo,</l>
+               <l>The Rod he Kiſſes, and in Love does grow,</l>
+               <l>With the Inchanting <hi>Syrens</hi> of his VVo.</l>
+               <pb n="12" facs="tcp:45014:7"/>
+               <l>Go ask the Tortur'd VVretch upon the Rack,</l>
+               <l>VVhen his ſtrong Joynts and Nerv's, with Anguiſh Crack,</l>
+               <l>How 'tis he Knows he ſuffers ſo much Pain?</l>
+               <l>He'l Cry, He Feels it, and of Life complain.</l>
+               <l>Life is by her own Cruelty undone;</l>
+               <l>For Sence no longer Feels, than Life layes on.</l>
+               <l>She Chains the Slave to th' <hi>Gallie,</hi> bids him Row,</l>
+               <l>VVhich he muſt do, 'cauſe Life will have it ſo.</l>
+               <l>Let us no more againſt the <hi>Turks</hi> Exclaim,</l>
+               <l>This prouder <hi>Sultan</hi> muſt endure the Blame.</l>
+               <l>She puts us to a Vaſt Expence, we pay</l>
+               <l>All that we Have, Each Moment, for her Stay.</l>
+               <l>And muſt at Ev'ry Turn, be waited on;</l>
+               <l>For if Neglected, the ſhye <hi>Gueſt</hi> is gone.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>BEHOLD</hi> the greateſt Man of all the <hi>Eaſt,</hi>
+               </l>
+               <l>VVho was (if Riches make Man ſo) moſt Bleſt!</l>
+               <l>The Dying <hi>Swan</hi> in a Melodious Strain,</l>
+               <l>For all His Patience, does of Life complain.</l>
+               <l>His Comforters were ſuch, they brought far more</l>
+               <l>Sorrow, than all his Meſſengers before.</l>
+               <l>From Death alone He does expect His Cure;</l>
+               <l>Death, that's the laſt of Remedies, and Sure.</l>
+               <l>Death whoſe Officious Hand, Binds up the Sore,</l>
+               <l>VVhich with a Pot-ſherd he had Prob'd before.</l>
+               <pb n="13" facs="tcp:45014:7"/>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <l>The Friendly Porter, who Unlocks the Gate,</l>
+               <l>And bids the <hi>Lazer</hi> now, no longer Wait.</l>
+               <l>Death that does Wing him, for's Eternal Home,</l>
+               <l>And bids him Flie, quick as his Thoughts have done.</l>
+               <l>Both by the Separation now will Gain,</l>
+               <l>One, Bliſs; the Other, Freedom from All Pain.</l>
+               <l>Then the Souls Knowledge, which before alone,</l>
+               <l>Was at the beſt but Speculation.</l>
+               <l>Will be reduced to a Certaintie,</l>
+               <l>What now She Knows by Hear-ſay, then She'l See.</l>
+               <l>As Travellers beſt Know, if Fame ſpeak True,</l>
+               <l>When they in Forrein Lands the Wonder View.</l>
+               <l>She recollects Her Faculties, Diffus'd</l>
+               <l>Amid'ſt Frail Fleſh, no more to be Abus'd.</l>
+               <l>Then parts in Tryumph, freed from Earthly Toyles,</l>
+               <l>Yet Stayes to'th' laſt, to gather up Her Spoyles.</l>
+            </lg>
+            <lg>
+               <l>VVHY are We holden in this ſad Suſpence?</l>
+               <l>Death's the great'ſt Bleſſing, that You can Diſpence.</l>
+               <l>The Cruel Catt thus Dallies with her Prey,</l>
+               <l>Sporting awhile with what ſhe makes Away.</l>
+               <l>Make haſt, leſt Nature ſhould Anticipate,</l>
+               <l>The Glorious Work that is deſign'd for Fate.</l>
+               <l>We, like to <hi>Codrus,</hi> would ev'n Death Embrace,</l>
+               <l>If for Our Country's Good, and Publick Peace.</l>
+               <pb n="14" facs="tcp:45014:8"/>
+               <l>To th' Innocent, to Dye's an Eaſy Thing,</l>
+               <l>Death does i'th' dread'ſt Accoſt, no Terror bring.</l>
+               <l>An Ax no more our Spirits can Command,</l>
+               <l>Than can a <hi>Phleghm</hi> in the Phyſitians Hand.</l>
+               <l>Death in its ſelf, is but a Harmleſs Thing,</l>
+               <l>'Tis Apprehention Contributes the Sting.</l>
+               <l>And ſince a Debt to Nature we do own,</l>
+               <l>Better on Scaffolds paid, than Beds of Down.</l>
+               <l>Thoſe Lords of Fortune, ſweeten ev'ry State,</l>
+               <l>Who can Command Themſelves, though not their Fate.</l>
+               <l>Thy Rod, Affliction, is to us moſt Dear,</l>
+               <l>VVho lays it on, will give us Strength to bear.</l>
+               <l>The ſtorms of Fate, we bravely can defie,</l>
+               <l>Whilſt on the Rock of Ages we rely.</l>
+               <l>And miſſing but the falſe World's Glories, do,</l>
+               <l>Miſs all the Ills which do Attend it, Too.</l>
+               <l>Here, from Court-Ryots, we ſecured are;</l>
+               <l>From Cheats of Marts, and Clamors of the Bar:</l>
+               <l>And from the Pulpit; A Worſe Miſchief far!</l>
+               <l>VVhat great Perfections can thoſe Parſons Reach,</l>
+               <l>VVho far from Practice, only ſtrive to Preach?</l>
+               <l>VVho Learn their Science, as an Art to Gain;</l>
+               <l>And wanting Salt, would Seaſon Souls in Vain.</l>
+               <pb n="15" facs="tcp:45014:8"/>
+               <l>Who to Buy Earth, do Sell out ſhares of Heaven,</l>
+               <l>And drive a Trade, with what is freely Given.</l>
+               <l>Vile Avarice, and Pride! From Heaven Accurſt,</l>
+               <l>In all Men Bad, but in a Church-Man Worſt!</l>
+               <l>That King, who was for Wiſdom moſt Approv'd,</l>
+               <l>Whoſe Mind and Fortune in like Meaſure mov'd.</l>
+               <l>Reacht to thoſe Heights of Bliſs, that Earth could Breed,</l>
+               <l>Whil'ſt Wealth and Honour ſtriv'd, which ſhould Exceed.</l>
+               <l>Even He was Croſt Alive, and Scorn'd when Dead,</l>
+               <l>By Lifes great Happineſs, unhappy Made.</l>
+               <l>Of Senceleſs Honour, we Renounce the Care,</l>
+               <l>The Firſt Man he was Made, the reſt Born Bare.</l>
+               <l>Theſe Floating Treaſures come and go with Breath,</l>
+               <l>And nothing have to give ſo good as Death.</l>
+               <l>Honour and Wealth, Ambitions Twins, with Pains</l>
+               <l>Are bred, which Man with Tort'ring Care, Maintains.</l>
+               <l>Only the Prickles in Poſſeſſion ſtay,</l>
+               <l>When theſe Gay Roſes Fade and Fall away.</l>
+               <l>We can without a Paradox, Believe,</l>
+               <l>Though ſtill Confin'd, we do in Freedom Live.</l>
+               <l>And when the Audit of our Days is come,</l>
+               <l>And all our Items in one Total Sum,</l>
+               <l>The Chearfulneſs with which, to Death wee'l go,</l>
+               <l>A Dying Proof ſhall of this Poem ſhow.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
